@@ -19,7 +19,8 @@ Business Reporting: Generates executive-ready reports with actionable insights
 Professional Visualizations: Publication-quality charts and analysis plots
 
 📊 Model Performance
-ModelRMSEMAER² ScoreCross-Val ScoreLinear Regression$3,247$2,1560.780.76 ± 0.03Random Forest$2,891$1,9230.850.84 ± 0.02XGBoost ⭐$2,734$1,8470.870.86 ± 0.02Gradient Boosting$2,798$1,9010.860.85 ± 0.02
+<img width="866" height="217" alt="image" src="https://github.com/user-attachments/assets/a0e74a6a-cc03-4eb0-8a3e-d8e719fccf45" />
+
 Results based on synthetic dataset of 10,000+ insurance claims
 🛠️ Technologies Used
 
@@ -137,6 +138,7 @@ Problem Solving: End-to-end analytical solution development
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 📞 Contact
 Adhita Sinha - adhitasinha2402@gmail.com
 Project Link: https://github.com/adhitasinha/insaurance_claim_predictor
